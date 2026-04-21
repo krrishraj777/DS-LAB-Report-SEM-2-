@@ -40,9 +40,9 @@ int isBalanced(char *s) {
     return (top == -1);
 }
 int main() {
-    printf("Name : Dhruv Bhonde\n");
-    printf("PRN : 25070521201\n");
-    printf("Section : D-1\n");
+    printf("Name : Krrishraj Sayam\n");
+    printf("PRN : 25070521257\n");
+    printf("Section : E-1\n");
     printf("Value Added Problem : 2\n");
     printf("---------------------------\n");
     char s[MAX];
