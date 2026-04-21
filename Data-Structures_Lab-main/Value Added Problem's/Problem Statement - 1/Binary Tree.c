@@ -5,9 +5,9 @@ Note: Element greater than or equal to root go to the right side.*/
 #include <stdio.h>
 #include <stdlib.h>
 void displayInfo() {
-    printf("Name : Dhruv Bhonde\n");
-    printf("PRN : 25070521201\n");
-    printf("Section : D-1\n");
+    printf("Name : Krrishraj Sayam\n");
+    printf("PRN : 25070521257\n");
+    printf("Section : E-1\n");
     printf("Value Added Problem : 1\n");
     printf("---------------------------\n");
 }
